@@ -54,7 +54,7 @@ const Navbar = () => {
   return (
     <div className={!showShadowNav ? 'fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-l from-[#21073C] to-[#3A1078] text-gray-300 z-20':'fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-l from-[#21073C] to-[#3A1078] text-gray-300 z-20 shadow-2xl'}>
       <div>
-        <img src={Logo} alt="logo" style={{ width: "35px" }} />
+        <img src={Logo} alt="logo" style={{ width: "50px" }} />
       </div>
 
       {/* menu */}

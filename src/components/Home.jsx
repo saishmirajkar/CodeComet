@@ -1,5 +1,4 @@
 import React from 'react'
-import { HiArrowNarrowRight } from 'react-icons/hi'
 import Typewriter from "typewriter-effect";
 
 const Home = () => {

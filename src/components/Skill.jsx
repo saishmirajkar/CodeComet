@@ -8,11 +8,13 @@ const Skill = () => {
     AOS.init();
   }, []);
   return (
-    <div
+  
+      
+  <div
       name="skill"
       className="w-full bg-gradient-to-l from-[#21073C] to-[#3A1078] text-gray-300  py-32"
     >
-      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center  h-full text-white">
+      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center  h-full text-white  sm:mt-0 mt-11">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-[#00FFCA]">
             Skills
@@ -42,6 +44,8 @@ const Skill = () => {
         </div>
       </div>
     </div>
+    
+  
   );
 };
 

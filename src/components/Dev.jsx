@@ -57,18 +57,19 @@ const Dev = () => {
             <p className="text-sm leading-7">
             
             </p>
-            
+            <p className="text-sm leading-7">
+            Currently Working as Web Developer at Lilac Print 
+            </p>
+            <p className="text-sm leading-7">
+            Former Intern at Orange Health 
+            </p>
             <p className="text-sm leading-7">
             Former Intern at Navgurukul 
 </p>
             
-            <p className="text-sm leading-7">
-            Former Intern at Orange Health 
-            </p>
+           
             
-            <p className="text-sm leading-7">
-            Currently Working as Web Developer at Lilac Print 
-            </p>
+           
             
             {/* Download resume button */}
 
@@ -99,6 +100,10 @@ const Dev = () => {
             <p className="text-sm leading-7">
             
             </p>
+             
+            <p className="text-sm leading-7">
+            Currently Working as Blockchain dev and Full stack dev (Freelancer)
+            </p>
             
             <p className="text-sm leading-7">
             Former Co-Founder and UI/UX lead at college startup "legit"
@@ -112,10 +117,7 @@ const Dev = () => {
             <p className="text-sm leading-7">
             Former Web-developer at SSFI
             </p>
-            
-            <p className="text-sm leading-7">
-            Currently Working as Blockchain dev and Full stack dev (Freelancer)
-            </p>
+           
             
             {/* Download resume button */}
 
